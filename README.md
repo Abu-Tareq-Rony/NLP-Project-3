@@ -16,7 +16,6 @@ Place these files in the project root:
 - `QTL_text.json` — training data (Title + Abstract)
 - `QTL_test_labeled.tsv` — test set with reference titles
 
-Only the **Abstract** and **Title** fields are used.
 
 ---
 

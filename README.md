@@ -18,7 +18,6 @@ Both models are evaluated with **BLEU**, **ROUGE-2**, and **ROUGE-L**.
 - 4-bit quantized model (`mistralai/Mistral-7B-Instruct-v0.3`)
 - Uses 10 example (Abstract, Title) pairs in the prompt  
 - Saves:  
-  - `mistral_dev_zero_shot_10shot.tsv`  
   - `mistral_test_zero_shot_10shot.tsv`
 
 # Install
